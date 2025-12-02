@@ -1,4 +1,4 @@
-# Hangman_Game
+# Hangman Game
 Welcome to the Hangman Game, a classic word-guessing challenge built entirely in Python using a simple and interactive command-line interface (CLI). This project demonstrates core Python fundamentals like loops, conditions, lists, functions, and user input validation.
 
 * Project Overview
